@@ -33,6 +33,12 @@ Microsoft Excel
 
 ![Text cleaning](https://github.com/user-attachments/assets/5fd2b3f6-bc24-40e2-8a29-e3f5817b5249)
 
+![Text cleanng i](https://github.com/user-attachments/assets/559fcb41-dece-4cc3-ba7d-fb414296c410)
+
+![Text cleaning (2)](https://github.com/user-attachments/assets/bdbc07d3-3a35-4024-b5d9-4e07c2d4501e)
+
+
+
 
 
 
