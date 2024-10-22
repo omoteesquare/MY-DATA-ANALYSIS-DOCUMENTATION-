@@ -29,4 +29,17 @@ Microsoft Excel
     
 ### Exploratory Data A nalysis
 
-https://github.com/omoteesquare/MY-DATA-ANALYSIS-DOCUMENTATION-/blob/main/ANALYSIS%20USING%20BASIC%20EXCEL%20FUNCTION.png
+![Text Extraction](https://github.com/user-attachments/assets/4d37f14b-a7db-46d1-9e61-0895ce3eccf9)  ![Extract](https://github.com/user-attachments/assets/bfe30495-5247-43ff-b31b-b71afe324679)
+
+![Text cleaning](https://github.com/user-attachments/assets/5fd2b3f6-bc24-40e2-8a29-e3f5817b5249)
+
+
+
+
+
+
+
+
+
+
+
