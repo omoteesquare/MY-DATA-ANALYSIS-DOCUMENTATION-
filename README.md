@@ -47,6 +47,26 @@ Microsoft Excel
 
 ![Statistical Analysis 3](https://github.com/user-attachments/assets/459b44db-3f5f-4d10-95da-90e143571ca0) ![Statistical Analysis 4](https://github.com/user-attachments/assets/06ca2856-cf24-40df-a320-7da94226758c)
 
+- Data Analysis using Pivot Table
+
+![Dataset for Pivot Table](https://github.com/user-attachments/assets/99cfc37e-cc0b-4029-8386-ee139105a3e3)
+
+- Report
+
+![Report](https://github.com/user-attachments/assets/20de2d2f-a4de-4988-8fa4-2adbe8303a93)
+
+![Report 2](https://github.com/user-attachments/assets/b59dac7c-07b6-4b09-8d79-47f34f19e48d)
+
+![Report 3](https://github.com/user-attachments/assets/4f6907ad-8f80-4ddc-8bb6-df2034dce2e7)
+
+
+
+
+
+
+
+
+
 
 
 
