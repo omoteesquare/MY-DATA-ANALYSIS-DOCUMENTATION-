@@ -27,3 +27,6 @@ Microsoft Excel
  4. Remove duplicates
  5. Replace missing values
     
+### Exploratory Data A nalysis
+
+https://github.com/omoteesquare/MY-DATA-ANALYSIS-DOCUMENTATION-/blob/main/ANALYSIS%20USING%20BASIC%20EXCEL%20FUNCTION.png
