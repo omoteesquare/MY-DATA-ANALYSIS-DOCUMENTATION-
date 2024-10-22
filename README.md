@@ -11,14 +11,18 @@ The Primary sources data is an open source data that can be freely downloaded fr
 
 ### Tools used
 
-Microsoft Excel
+ - Microsoft Excel
  i. For data cleaning
- 11. Data processing
- iii. Statistical analysis
- iv. Data virtualization
+ ii. Text Extraction
+ iii. Data processing
+ iv. Statistical analysis
+ v. Data virtualization
+
+ - SQL- Structured Query Language for querying Data
+ - Power BI
+ - GitHub for Portfolio Building
 
  ### Data cleaning and preparation
-
  In the initial phase of data cleaning and preparation, i did the following action
 
  1. Data loading and inspection
@@ -27,7 +31,7 @@ Microsoft Excel
  4. Remove duplicates
  5. Replace missing values
     
-### Exploratory Data A nalysis
+### Exploratory Data Analysis (EDA)
 
 - Text Extraction
 
