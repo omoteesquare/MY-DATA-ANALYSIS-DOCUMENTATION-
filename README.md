@@ -1,5 +1,5 @@
 # MY-DATA-ANALYSIS-DOCUMENTATION-
-This is where I documented my first project while learning Data Analysis with the Incubator Hub and Tech Studio Academy
+This is where I documented my first project while learning Data Analysis with the Incubator Hub
 
 ### Project Title Data Analysis
 
@@ -78,6 +78,10 @@ The Primary sources data is an open source data that can be freely downloaded fr
 ![SQL QUERY 2](https://github.com/user-attachments/assets/f4ed4bd3-22ce-43fc-8f84-896f743e52d8)
 
 ![SQL QUERY 3](https://github.com/user-attachments/assets/ed45e8d6-f377-4aa2-840a-f1c510fb0f4f)
+
+#LITA CAPSTONE PROJECT
+
+
 
 
 
