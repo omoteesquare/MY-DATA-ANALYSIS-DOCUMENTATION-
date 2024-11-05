@@ -81,6 +81,33 @@ The Primary sources data is an open source data that can be freely downloaded fr
 
 #LITA CAPSTONE PROJECT
 
+- SQL SALES DATA PROJECT
+
+![Sales by Product](https://github.com/user-attachments/assets/e01849dd-b3a5-426a-8af4-78a39cff3abd)
+
+![Sales in each region](https://github.com/user-attachments/assets/d6774c2b-2e25-4218-8a6e-3b1d0f23c417)
+
+![Highest selling Product](https://github.com/user-attachments/assets/e2b18b89-e910-42c8-88ee-2bf16b4306db)
+
+![Total revenue by product](https://github.com/user-attachments/assets/3ba13664-1ef2-4886-bcc8-5c07c6f18efa)
+
+![Monthly sales data for the current year](https://github.com/user-attachments/assets/7fb04e8e-2f84-4365-9716-f244edb4b7fe)
+
+![Top 5 customers by total puchase](https://github.com/user-attachments/assets/8c277a79-074e-4fe4-8460-184f69eb81d8)
+
+![Product with no sales in the last quarter](https://github.com/user-attachments/assets/c488ce9f-274c-4613-985b-797510ee0fa2)
+
+
+
+
+
+
+
+
+
+
+  
+
 
 
 
