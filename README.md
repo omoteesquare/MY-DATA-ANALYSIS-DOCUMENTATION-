@@ -97,6 +97,16 @@ The Primary sources data is an open source data that can be freely downloaded fr
 
 ![Product with no sales in the last quarter](https://github.com/user-attachments/assets/c488ce9f-274c-4613-985b-797510ee0fa2)
 
+- POWER BI VISUALIZATION ON SALES DATA
+
+ ![ANALYSIS OF SALES DATA VISUALIZATION](https://github.com/user-attachments/assets/f4230caa-5e67-439e-87dd-0692632c7a8c)
+
+- VISUALIZATION ON CUSTOMER DATA
+ 
+ ![ANALYSIS OF CUSTOMER DATA VISUALIZATION](https://github.com/user-attachments/assets/a1719893-6611-44d8-9de6-a094b5c8cc0d)
+
+
+
 
 
 
